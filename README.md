@@ -9,14 +9,11 @@
 <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff"></span> 
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff"></span>
-<span><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=fff"></span>
-<span><img src="https://img.shields.io/badge/RESTful API-e3e3e3?style=flat-square&logo=RESTful API&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Vuetify-4FC08D?style=flat-square&logo=Vuetify&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=fff"></span>
-<span><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=fff"></span>
 
 🌱 Tool 🌱<br/>
 <span><img src="https://img.shields.io/badge/VSCODE-5C2D91?style=flat-square&logo=Visual Studio&logoColor=fff"></span>
