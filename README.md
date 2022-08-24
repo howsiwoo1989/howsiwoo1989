@@ -3,7 +3,7 @@
     <img src="https://howsiwoo-7e4d4.web.app/img/HOMEMAIN_CONTENT_IMG.b546ffa0.png"/>
 </div>
 
-⚡ Front-end Stack ⚡<br/>
+⚡ UI Stack ⚡<br/>
 <span><img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=CSS3&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"></span>
