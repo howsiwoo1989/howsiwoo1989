@@ -10,7 +10,6 @@
 <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff"></span> 
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff"></span>
-<span><img src="https://img.shields.io/badge/Vuetify-4FC08D?style=flat-square&logo=Vuetify&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=fff"></span>
 <span><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=fff"></span>
